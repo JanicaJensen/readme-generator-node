@@ -39,9 +39,9 @@ To run this program, one should have Node.js version 16 installed as well as nod
 
 Once one has followed the installation guidelines above, they will be able to run the program in the integrated terminal using "node index.js". It will present the user with a question that should be answered withinn the context of a README, since that is where it will be populated. It will continue to present the user with questions which they must then answer, hit return, and answer the next until it runs out. There is one multiple choice question which requires the use of an arrow key to select. Once all questions have been answered, the last "return" will show the file as "Written!" and the user will be able to see the README listed in the folder to the left where they populated it.
 
-I included this as a gif because the video option was giving me problems:
+![](/initiatenode%20gif.gif)
 
-video:https://drive.google.com/file/d/1qPTPd3FE0DaWaOs_cPn4oAVP8JpF3sJX/view?usp=sharing
+video that demonstrates full usage:https://drive.google.com/file/d/1qPTPd3FE0DaWaOs_cPn4oAVP8JpF3sJX/view?usp=sharing
 
 ## Tests
 
